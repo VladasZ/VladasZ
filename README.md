@@ -2,7 +2,7 @@
 
 I like coding for fun. 
 
-In my spare time I work on various personal projects related to game and backend development.
+In my spare time I work on various personal projects related to game and backend development and play drums, and Factorio.
 
 You can check my commercial experience here: [LinkedIn](https://www.linkedin.com/in/vladas-zakrevskis-371286109/)
 
