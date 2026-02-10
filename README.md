@@ -8,10 +8,7 @@ You can check my commercial experience here: [LinkedIn](https://www.linkedin.com
 
 ---
 
-
-#### Some of my passion projects:
-
----
+### Some of my passion projects:
 
 ## Test engine: 
 
@@ -33,7 +30,9 @@ Why use AWS? Boring. You can always buy a RaspberryPI, then stuble upon Jeff Gee
 
 Isn't she a beauty?
 
-You can read more about it in this post: [Link](https://www.reddit.com/r/homelab/comments/1pf0xso/about_6_months_ago_i_stumbled_upon_jeff_geerlings/)
+It runs High Available Kubernetes cluster using [Talos Linux](https://www.talos.dev/).
+
+You can read more about it in my Reddit post: [Link](https://www.reddit.com/r/homelab/comments/1pf0xso/about_6_months_ago_i_stumbled_upon_jeff_geerlings/)
 
 ---
 
