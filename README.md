@@ -28,7 +28,7 @@ Why use AWS? Boring. You can always buy a RaspberryPI, then stuble upon Jeff Gee
 
 <img width="357" height="500" alt="Image" src="https://github.com/user-attachments/assets/bcd9c04e-246e-497f-9943-f7715602fe80" />
 
-Isn't she a beauty?
+Isn't she a beauty? The rack is fully 3D printed. I checked prices of some mini racks on Amazon and decided that buyng a whole 3D printer and printing it would be cheaper. And you can design you rack exactly for your hardware. I used amazing framework for that: https://homeracker.org/ . If you are into 3D printing you should definetely check it.
 
 It runs High Available Kubernetes cluster using [Talos Linux](https://www.talos.dev/).
 
