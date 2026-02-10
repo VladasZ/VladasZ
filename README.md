@@ -13,7 +13,7 @@ You can check my commercial experience here: [LinkedIn](https://www.linkedin.com
 
 ---
 
-## [Test engine](https://github.com/vlasdasz/test-engine): 
+## Test engine: 
 
 It is an attempt to create a fully functional, cross platform game engine and a full stack UI framework from scratch. 
 
@@ -21,13 +21,19 @@ The idea is to render all the stuff manually using low level GPU APIs and provid
 
 Currently supported Platforms: `macOS`, `Linux`, `Windows`, `iOS`, `Android`, and Web via `WASM`
 
+Here is the repo: [Test Engine](https://github.com/vlasdasz/test-engine)
+
 ---
 
 ## My homelab:
 
 Why use AWS? Boring. You can always buy a RaspberryPI, then stuble upon Jeff Geerling video on youtube and dive into the rabbit hole of homelabbing. It starts small, you find your old PC and install linux on it and host Valheim server there to play with your friends. Then you buy 1 mini PC, then another, then think about buying a 3D printer. The thing goes on and eventyally this is what I ended up with:
 
-<img width="755" height="1077" alt="Image" src="https://github.com/user-attachments/assets/b6af3e75-5ab0-4ada-a469-fe4746c1a4f2" />
+<img width="357" height="500" alt="Image" src="https://github.com/user-attachments/assets/bcd9c04e-246e-497f-9943-f7715602fe80" />
+
+Isn't she a beauty?
+
+You can read more about it in this post: [Link](https://www.reddit.com/r/homelab/comments/1pf0xso/about_6_months_ago_i_stumbled_upon_jeff_geerlings/)
 
 ---
 
