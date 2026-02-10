@@ -16,7 +16,12 @@ It is an attempt to create a fully functional, cross platform game engine and a 
 
 The idea is to render all the stuff manually using low level GPU APIs and provide a high level interface to build UI and game scenes. This allow supporting of multiple platforms without relying on native UI frameworks and libraries. 
 
-Currently supported Platforms: `macOS`, `Linux`, `Windows`, `iOS`, `Android`, and Web via `WASM`
+I try to support as many devices and platforms as possible. The engine works perfectly fine on 13 years old iPhone 5s.
+
+Currently supported platforms: 
+`macOS`, `Linux`, `Windows`, `iOS`, `Android`, and Web via `WASM`
+
+All desktop platforms support both `x86` and `arm` versions
 
 Here is the repo: [Test Engine](https://github.com/vlasdasz/test-engine)
 
