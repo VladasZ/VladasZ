@@ -14,6 +14,8 @@ You can check my commercial experience here: [LinkedIn](https://www.linkedin.com
 
 It is an attempt to create a fully functional, cross platform game engine and a full stack UI framework from scratch. 
 
+<img width="766" height="647" alt="image" src="https://github.com/user-attachments/assets/eb6b5e5e-d0f7-4457-8962-ccc53d8f5f12" />
+
 The idea is to render all the stuff manually using low level GPU APIs and provide a high level interface to build UI and game scenes. This allows supporting multiple platforms without relying on native UI frameworks and libraries. 
 
 I try to support as many devices and platforms as possible. The engine is lightweight and tested and works perfectly fine on 13 years old iPhone 5s.
