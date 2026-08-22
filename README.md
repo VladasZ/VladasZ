@@ -10,7 +10,7 @@ You can check my commercial experience here: [LinkedIn](https://www.linkedin.com
 
 ### Some of my passion projects:
 
-## Test engine: 
+## Hilen: 
 
 It is an attempt to create a fully functional, cross platform game engine and a full stack UI framework from scratch. 
 
@@ -25,7 +25,7 @@ Currently supported platforms:
 
 All desktop platforms support both `x86` and `arm` versions
 
-Here is the repo: [Test Engine](https://github.com/vlasdasz/test-engine)
+Here is the repo: [Hilen](https://github.com/hilen/hilen)
 
 ---
 
